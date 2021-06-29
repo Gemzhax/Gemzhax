@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm GemzDev</h1>
 - 🔭 I’m currently working on **Custom Discord Rich Presence**
 
 - 🌱 I’m currently learning **everything 😱**
