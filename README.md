@@ -1,5 +1,3 @@
-- 🔭 I’m currently working on **Custom Discord Rich Presence**
-
 - 🌱 I’m currently learning **everything 😱**
 
 - ⚡ Fun fact **i dont have money 💸**
