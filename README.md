@@ -3,7 +3,6 @@
 <p align="center">
   <samp>
     👋 Hi, I'm Mario! 👋 <br>
-
     🔥 Backend Developer & Cloud System Administrator<br>
     ✨ Favorite Tech - JavaScript | Typescript | Python | C# ✨<br>
     📧 gemzdev@gmail.com <br>
